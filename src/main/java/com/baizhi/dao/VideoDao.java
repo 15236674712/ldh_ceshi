@@ -13,4 +13,6 @@ public interface VideoDao {
 
     Video queryByVideoIds();
 
+
+    Video aaa();
 }
