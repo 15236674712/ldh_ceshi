@@ -16,4 +16,6 @@ public interface CategoryDao {
 
     List<Video> querys();
 
+    Category query();
+
 }
