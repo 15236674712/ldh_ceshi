@@ -28,14 +28,4 @@ class GitTests {
 
     }
 
-    public static void main(String[] args) {
-        System.out.println("===");
-        int a = 10;
-        int b = 20;
-
-        int bb=10;
-        int cc=20;
-        System.out.println(cc+bb);
-    }
-
 }
