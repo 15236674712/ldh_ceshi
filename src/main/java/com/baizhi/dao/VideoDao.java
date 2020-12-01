@@ -21,4 +21,6 @@ public interface VideoDao {
     Video ccc();
 
     Video query();
+
+    Video queryByName();
 }
