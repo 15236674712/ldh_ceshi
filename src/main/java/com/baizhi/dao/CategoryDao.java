@@ -19,4 +19,7 @@ public interface CategoryDao {
 
     Category query();
 
+
+    Category queryByName();
+
 }
