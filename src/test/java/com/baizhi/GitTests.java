@@ -17,6 +17,7 @@ class GitTests {
         int aaa = 12;
 
         int dev = 12;
+        int bbb = 11;
     }
 
 }
