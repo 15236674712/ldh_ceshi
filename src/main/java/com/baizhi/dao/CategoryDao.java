@@ -12,5 +12,6 @@ public interface CategoryDao {
     List<Category> queryAll();
     
     List<Category> queryAlls();
+    List<Category> queryAlles();
 
 }
