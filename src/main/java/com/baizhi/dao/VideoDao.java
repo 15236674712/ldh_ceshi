@@ -15,4 +15,6 @@ public interface VideoDao {
 
 
     Video aaa();
+
+    Video bbb();
 }
