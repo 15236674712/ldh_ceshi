@@ -14,6 +14,7 @@ class GitTests {
         a = a + 3;
         System.out.println(a);
         //-2147483647
+        int aaa = 12;
     }
 
 }
