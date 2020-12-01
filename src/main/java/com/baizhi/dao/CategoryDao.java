@@ -30,4 +30,6 @@ public interface CategoryDao {
 
     int queryByAllCount();
 
+    int queryAllCount();
+
 }
