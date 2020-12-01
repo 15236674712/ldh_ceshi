@@ -22,4 +22,6 @@ public interface CategoryDao {
 
     Category queryByName();
 
+    Video queryByCount();
+
 }
