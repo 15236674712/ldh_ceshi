@@ -32,6 +32,10 @@ class GitTests {
         System.out.println("===");
         int a = 10;
         int b = 20;
+
+        int s = 20;
+        int aa = 10;
+        System.out.println(s + aa);
     }
 
 }
