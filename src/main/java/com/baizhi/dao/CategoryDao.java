@@ -10,5 +10,7 @@ public interface CategoryDao {
     Category qyertById(String i);
 
     List<Category> queryAll();
+    
+    List<Category> queryAlls();
 
 }
