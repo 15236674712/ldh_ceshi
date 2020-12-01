@@ -15,6 +15,8 @@ class GitTests {
         System.out.println(a);
         //-2147483647
         int aaa = 12;
+
+        int dev = 12;
     }
 
 }
