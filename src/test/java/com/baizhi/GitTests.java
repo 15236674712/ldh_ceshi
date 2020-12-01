@@ -18,6 +18,11 @@ class GitTests {
 
         int dev = 12;
         int bbb = 11;
+        
+        String str="lalala";         
+        String str1="lalala";
+        String str2="lalala"; 
+        String str3="lalala"; 
     }
 
 }
