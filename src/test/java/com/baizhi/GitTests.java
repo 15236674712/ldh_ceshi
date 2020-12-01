@@ -21,8 +21,15 @@ class GitTests {
         
         String str="lalala";         
         String str1="lalala";
-        String str2="lalala"; 
-        String str3="lalala"; 
+        String str2="lalala";
+        String str3 = "lalala";
+
+
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println("===");
     }
 
 }
