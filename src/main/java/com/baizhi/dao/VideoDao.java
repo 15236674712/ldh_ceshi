@@ -8,4 +8,9 @@ public interface VideoDao {
 
     List<Video> queryByVideoName(String title);
 
+
+    Video queryByVideoId();
+
+    Video queryByVideoIds();
+
 }
