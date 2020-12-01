@@ -19,4 +19,6 @@ public interface VideoDao {
     Video bbb();
 
     Video ccc();
+
+    Video query();
 }
